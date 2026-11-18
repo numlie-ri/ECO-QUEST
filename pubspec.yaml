@@ -1,0 +1,6 @@
+name: hotel_reservation
+description: Sistem Reservasi Hotel berbasis CLI (Dart + SQLite)
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
